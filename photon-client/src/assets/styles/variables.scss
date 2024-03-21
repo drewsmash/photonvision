@@ -9,14 +9,14 @@ $heading-font-family: $default-font;
 }
 
 .v-row-group__header {
-  background: #005281 !important;
+  background: #000d81 !important;
 }
 .theme--dark.v-data-table
   > .v-data-table__wrapper
   > table
   > tbody
   > tr:hover:not(.v-data-table__expanded__content):not(.v-data-table__empty-wrapper) {
-  background: #005281 !important;
+  background: #090081 !important;
 }
 
 .v-card__title {

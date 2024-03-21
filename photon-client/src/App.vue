@@ -77,11 +77,11 @@ if (!is_demo) {
 }
 
 .main-container {
-  background-color: #232c37;
+  background-color: #434346;
   padding: 0 !important;
 }
 
 #title {
-  color: #ffd843;
+  color: #434346;
 }
 </style>
